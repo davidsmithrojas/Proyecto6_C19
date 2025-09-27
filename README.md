@@ -1,6 +1,5 @@
 [README.md](https://github.com/user-attachments/files/22353529/README.md)
-# 🚀 API REST Proyecto 6 - MongoDB (Versión Mejorada)
-
+# 🚀 API REST Proyecto 6 - MongoDB
 Una API REST completa desarrollada con Node.js, Express y MongoDB, implementando patrones de diseño modernos y mejores prácticas de desarrollo.
 
 ## ✨ Características
